@@ -1,2 +1,2 @@
 # shadowize
-👻 Shadowize is a simple script for adding shadows to your screenshots
+👻 Simple script for adding shadows to my screenshots
